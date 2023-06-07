@@ -1,0 +1,1 @@
+pyinstaller --onedir --onefile --name="DFire" --icon="icon.ico" --windowed main.py
